@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleCounter</string>
+    <string name="Title">Simple Counter App</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="reset">RESET</string>
+</resources>
